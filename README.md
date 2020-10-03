@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ans1genie)](https://github.com/ans1genie/github-readme-stats)
+
+
 <!--
 **ans1genie/ans1genie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
